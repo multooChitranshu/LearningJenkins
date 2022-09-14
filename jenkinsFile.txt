@@ -1,0 +1,2 @@
+This is jenkinsFile
+It was read via jenkins
